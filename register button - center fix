@@ -31,6 +31,7 @@ body{font-family: 'Open Sans', sans-serif; font-size: 12px;}
 header{width: 260px; height: auto; text-align: center; padding: 20px; color: white; background-color: #1414ff; -moz-border-top-left-radius: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -moz-border-top-right-radius: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px;}
 h1.title{font-size: 20px; font-weight: 400; text-shadow: 1px 1px 1px #073ca5;}
 section{width: 260px; height: auto; padding: 20px;}
+.loginform{margin-bottom: 18px;}
 .loginform a{font-size: 11px; color: #7f8c8d;}
 .loginform a:hover{text-decoration: underline;}
 .mail{width: 260px; height: auto; padding: 17px 17px 17px 40px; font-size: 15px; color: #7f8c8d; background: #ecf0f1 url(http://www.ahmetkaplan.net/calismalar/flatixlogin/images/user.png) no-repeat 12px; margin-bottom: 10px; border:0px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; ransition: .3s ease-in-out; -webkit-transition: .3s ease-in-out;}
@@ -42,8 +43,8 @@ section{width: 260px; height: auto; padding: 20px;}
 .login{width: 260px; height: auto; padding: 10px; text-align: center; font-size: 16px; color: white; text-shadow: 1px 1px 1px #c0392b; box-shadow: 0px 3px 0px #c0392b; margin-top: 10PX; background-color: #e74c3c; border:0px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; transition: .3s ease-in-out; -webkit-transition: .3s ease-in-out;}
 .login:hover{background-color: #c0392b;}
 
-.or{margin-left: ; padding-top: 15px; border-top: 1px; border-top-color: #ecf0f1; border-top-style: solid; float: left;}
-.facebook a{float: left; 
+.or{margin-left: ; padding-top: 15px; border-top: 1px; border-top-color: #ecf0f1; border-top-style: solid; width: 100%; text-align: center;}
+.facebook a{
 	margin: 0 auto; 
 	width: 105px; 
 	height: auto; 
